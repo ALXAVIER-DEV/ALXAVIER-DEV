@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ALXAVIER-DEV
-- 👀 I’m interested in Big Data
-- 🌱 I’m currently learning Spark
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in IA
+- 🌱 I’m currently Workin Data Enginner
+- 💞️ I’m looking to collaborate on Data Communit
 - 📫 How to reach me ...
 
 <!---
